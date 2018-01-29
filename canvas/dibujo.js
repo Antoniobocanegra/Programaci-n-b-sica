@@ -5,13 +5,12 @@ var lineas = 30;
 var l = 0;
 var yi, xf;
 
-while ( l < lineas) {
+for( l; l < lineas; l++) {
 
     yi = 10 * l;
     xf = 10 * (l + 1);
     dibujarLinea("blue", 0, yi, xf, 300);
     console.log("Linea "+ l);
-    l = l + 1;
 
 }
 

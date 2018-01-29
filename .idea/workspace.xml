@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a314b55-602e-44ef-8505-d21d0c958d79" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/canvas/dibujo.js" afterPath="$PROJECT_DIR$/canvas/dibujo.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,21 +16,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dibujo.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dibujo.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/canvas/dibujo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="247">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dibujo.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dibujo.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/canvas/dibujo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="209">
+              <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -165,16 +164,11 @@
   </component>
   <component name="RunManager" selected="Node.js.dibujo.js">
     <configuration name="primero.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost:63342/programaciónBásica/primero.html" />
-    <configuration name="dibujo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="dibujo.js" working-dir="$PROJECT_DIR$/canvas" />
+    <configuration name="dibujo.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="dibujo.js" working-dir="$PROJECT_DIR$/canvas" />
     <list size="2">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.primero.html" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.dibujo.js" />
     </list>
-    <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.dibujo.js" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -191,12 +185,12 @@
       <updated>1516892657141</updated>
       <workItem from="1516892658415" duration="9299000" />
       <workItem from="1517200204375" duration="3781000" />
-      <workItem from="1517239748389" duration="1754000" />
+      <workItem from="1517239748389" duration="1980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14834000" />
+    <option name="totallyTimeSpent" value="15060000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="0" width="800" height="900" extended-state="4" />
@@ -300,18 +294,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/canvas/dibujo.html">
+    <entry file="file://$PROJECT_DIR$/canvas/dibujo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="209">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/canvas/dibujo.js">
+    <entry file="file://$PROJECT_DIR$/canvas/dibujo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="247">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
           <folding />
         </state>
       </provider>
